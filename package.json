@@ -1,0 +1,1 @@
+{"description":"Tell a Whole Story in 32 Characters — one Wi-Fi name that tells a whole story","license":"MIT","main":"main.ts","name":"makefun-story-32-chars-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
